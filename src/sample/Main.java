@@ -32,7 +32,7 @@ public class Main extends Application {
 
 
         primaryStage.setTitle("Hello JavaFX!");
-        primaryStage.setScene(new Scene(root, 300, 275));
+        primaryStage.setScene(new Scene(root, 700, 275));
         primaryStage.show();
     }
 
